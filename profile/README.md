@@ -3,6 +3,9 @@
 ### Our project
 - https://s3-ranobe-read.website.yandexcloud.net/
 
+
+![image](https://github.com/user-attachments/assets/0305e4b2-343b-48db-b6e7-3da5a10ba2f1)
+
 <!--
 
 **Here are some ideas to get you started:**
